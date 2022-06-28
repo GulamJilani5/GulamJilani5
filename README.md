@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GulamJilani5
-- 👀 I’m interested in learning and developing UI using HTML5,CSS3,Javascript.
-- 🌱 I’m currently learning advance portion of CSS and javascript
-- 💞️ I’m looking to collaborate on ReactJs and Python in future.
+- 👀 I’m interested in learning and developing Fronend and Backend application using Javascript's framework.
+- 🌱 I’m currently learning advance portion of Javascript, ReactJS and NodeJS.
+- 💞️ I am working as a RPA developer in Lauren Information Techolgy Mumbai.
 - 📫 How to reach me .
 
 <!---
