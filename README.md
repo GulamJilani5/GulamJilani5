@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GulamJilani5
-- 👀 I’m interested in learning and developing Fronend and Backend application using Javascript's framework.
-- 🌱 I’m currently learning advance portion of Javascript, ReactJS and NodeJS.
+- 👀 I’m passionate about learning and developing Fronend and Backend application using Javascript's framework.
+- 🌱 I’m currently working on advance portion of ReactJS and NodeJS.
 - 💞️ I am working as a software developer in Lauren Information Techolgy Mumbai.
 - 📫 gulamjilanicse@gmail.com
 
