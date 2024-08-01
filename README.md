@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GulamJilani5
-- 👀 I’m passionate about learning and developing Fronend and Backend applications using Javascript's framework.
-- 🌱 I’m currently focuing on to develop software best readable, reusable and optimized coding.
-- 💞️ I am working as a software developer in Lauren Information Technology Mumbai.
+- 👀 Currently, I am excelling in frontend development with React.js
+- 🌱 My goal is to expand my skill set to become a proficient full-stack cloud developer..
+- 💞️ I am working as a Associate Frontend developer in Lauren Information Technology, Mumbai.
 - 📫 gulamjilanicse@gmail.com
 
 <!---
