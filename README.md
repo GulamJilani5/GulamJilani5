@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GulamJilani5
-- 👀 Currently, I am excelling in frontend development with React.js
-- 🌱 My goal is to expand my skill set to become a proficient full-stack developer..
-- 💞️ I am working as a Associate Frontend developer in Lauren Information Technology, Mumbai.
+- 👀 Curretnly, I am excelling my skills into how systems works.
+- 🌱 My goal is to become System Design specialist.
+- 💞️ I am working as a Senior Software Engineer in Accenture, India.
 - 📫 gulamjilanicse@gmail.com
 
 <!---
